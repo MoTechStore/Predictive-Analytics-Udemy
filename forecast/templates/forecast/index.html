@@ -1,0 +1,62 @@
+{% extends 'forecast/base.html' %}
+{% load static %}
+
+{% block content %}
+
+
+<div class="container-fluid">
+    <div class="row">
+
+
+        <div class="col-md-6 offset-md-3 mt-5">
+            <a target="_blank" href="L">
+               <img src=''>
+             </a>
+             <br>
+
+             {% if prediction %}
+
+            Most Demanded Product Will Be {{ prediction }}
+
+            {% endif %}
+        
+             <h4 class="text-primary">Forecast Future Demand of Phone Using Date</h4>
+
+             <p>Based on Past Sales, AI can predict the Future Sales. Using Predictive Analytics We Want To Forecast Which Will Be Most Demanded Phone In The Future In order to Match the demand and Maximize The Profit</p>
+             <form action="{% url 'predict' %}" method="POST" enctype="multipart/form-data">
+                 {% csrf_token %}
+               <hr>
+               <div class="form-group mt-3">
+            <input type="text" class="form-control" name="day" placeholder="Day" required="">
+        </div>
+
+             <div class="form-group mt-3">
+            <input type="text" class="form-control"  name="dayofweek" placeholder="Day of week" required="">
+        </div>
+
+             <div class="form-group mt-3">
+            <input type="text" class="form-control"  name="month" placeholder="Month" required="">
+        </div>
+
+               <hr>
+               <button type="submit" class="btn btn-primary">Predict</button>
+             </form>
+         </div> 
+
+
+    </div>
+</div>
+
+
+<!-- Footer -->
+<footer class="page-footer font-small blue fixed-bottom">
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 motechapp
+    <a href=""></a>
+  </div>
+</footer>
+<!-- Footer -->
+{% endblock %}
+
+
+

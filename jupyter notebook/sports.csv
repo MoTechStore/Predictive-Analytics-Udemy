@@ -1,0 +1,123 @@
+﻿tam 1,team 2,day,month,weekday,ground,competition,result
+man city,liverpool,13,11,sat,etihad,league,liverpool win 3
+liverpool,man city,26,3,sat,anfield,league,liverpool win 2
+man city,liverpool,29,11,sat,etihad,league,man city win 2
+liverpool,man city,17,4,sat,anfield,league,draw 1
+man city,liverpool,13,11,sat,etihad,league,liverpool win 4
+liverpool,man city,9,4,sat,anfield,league,man city win 1
+liverpool,man city,5,11,sat,anfield,league,liverpool win 4
+man city,liverpool,29,3,wed,etihad,league,liverpool win 2
+man city,liverpool,11,4,fri,etihad,league,liverpool win 2
+liverpool,man city,14,4,mon,anfield,league,man city win 2
+man city,liverpool,6,9,sat,etihad,league,liverpool win 2
+liverpool,man city,17,1,sat,anfield,league,man city win 1
+liverpool,man city,7,11,sat,anfield,league,draw 1
+man city,liverpool,7,4,wed,anfield,league,liverpool win 2
+man city,liverpool,22,8,wed,etihad,league,draw 2
+liverpool,man city,29,8,wed,anfield,league,liverpool win 4
+man city,liverpool,24,8,wed,etihad,league,man city win 2
+liverpool,man city,30,8,tue,anfield,league,liverpool win 3
+man city,liverpool,19,8,sat,anfield,league,draw 0
+liverpool,man city,16,12,sat,anfield,league,draw 1
+liverpool,man city,10,8,sat,anfield,league,liverpool win 2
+man city,liverpool,12,5,mon,etihad,league,man city win 1
+liverpool,man city,12,8,tue,anfield,league,liverpool win 3
+man city,liverpool,20,8,wed,etihad,league,liverpool win 2
+liverpool,man city,12,1,tue,anfield,league,draw 0
+man city,liverpool,1,9,wed,etihad,league,man city win 1
+liverpool,man city,26,2,sat,anfield,league,liverpool win 3
+liverpool,man city,12,8,sat,anfield,league,liverpool win 2
+man city,liverpool,17,2,sat,etihad,league,draw 1
+man city,liverpool,12,4,fri,etihad,league,draw 1
+liverpool,man city,16,4,tue,anfield,league,liverpool win 4
+man city,liverpool,14,9,sat,etihad,league,man city win 2
+liverpool,man city,26,12,thu,anfield,league,liverpool win 4
+liverpool,man city,27,12,sat,anfield,league,liverpool win 1
+man city,liverpool,19,4,mon,etihad,league,liverpool win 3
+liverpool,man city,26,12,thu,anfield,league,liverpool win 4
+liverpool,man city,27,12,sat,anfield,league,liverpool win 1
+man city,liverpool,19,4,mon,etihad,league,liverpool win 3
+man city,liverpool,29,12,wed,etihad,league,draw 1
+liverpool,man city,27,12,sat,anfield,league,liverpool win 1
+man city,liverpool,19,4,thu,etihad,league,liverpool win 3
+man city,liverpool,29,12,wed,etihad,league,draw 1
+liverpool,man city,9,4,sat,anfield,league,man city win 3
+liverpool,man city,29,10,sat,anfield,league,man city win 3
+liverpool,man city,1,5,mon,anfield,league,liverpool win 4
+liverpool,man city,29,10,,anfield,league,man city win 3
+man city,liverpool,26,8,sat,etihad,league,liverpool win 4
+liverpool,man city,18,11,sat,anfield,league,liverpool win 1
+man city,liverpool,27,10,sat,etihad,league,liverpool win 4
+liverpool,man city,11,3,tue,anfield,league,liverpool win 2
+man city,liverpool,10,4,sat,etihad,league,liverpool win 3
+man city,liverpool,19,5,tue,etihad,league,liverpool win 1
+liverpool,man city,26,12,sat,anfield,league,man city win 3
+man city,liverpool,10,4,sat,etihad,league,liverpool win 5
+liverpool,man city,27,12,sat,anfield,league,liverpool win 5
+man city,liverpool,4,4,sat,etihad,league,liverpool win 4
+man city,liverpool,26,12,thu,etihad,league,man city win 1
+liverpool,man city,31,3,mon,anfield,league,liverpool win 2
+liverpool,man city,25,8,mon,anfield,league,draw 0
+man city,liverpool,17,1,sat,etihad,league,liverpool win 1
+man city,liverpool,13,3,sun,etihad,fa,liverpool win 4
+liverpool,man city,19,8,sat,anfield,league,liverpool win 3
+man city,liverpool,2,12,,,,
+liverpool,man city,24,11,sat,anfield,league,draw 2
+man city,liverpool,9,3,sat,etihad,league,liverpool win 3
+man city,liverpool,21,8,wed,etihad,league,man city win 2
+liverpool,liverpool,28,12,mon,anfield,league,draw 1
+man city,liverpool,12,4,wed,etihad,league,draw 1
+man city,liverpool,23,10,sat,etihad,league,draw 1
+liverpool,man city,22,1,sat,etihad,league,liverpool win 2
+liverpool,man city,28,12,mon,anfield,league,draw 1
+man city,liverpool,14,4,fri,etihad,league,man city win 2
+liverpool,man city,25,10,wed,anfield,league,liverpool win 4
+liverpool,man city,28,10,sat,anfield,league,liverpool win 6
+man city,liverpool,5,5,sun,etihad,league,draw 2
+liverpool,man city,9,9,sat,anfield,league,liverpool win 3
+man city,liverpool,31,1,wed,etihad,league,draw 1
+liverpool,man city,18,2,sun,anfield,fa,liverpool win 4
+man city,liverpool,28,9,sat,etihad,league,liverpool win 3
+man city,liverpool,5,1,sun,etihad,fa,liverpool win 1
+liverpool,man city,3,5,sat,anfield,league,man city win 2
+man city,liverpool,28,12,sun,etihad,league,draw 2
+liverpool,man city,11,2,sat,anfield,league,liverpool win 2
+liverpool,man city,21,8,sat,anfield,league,liverpool win 2
+man city,liverpool,9,4,sat,etihad,league,man city win 1
+man city,liverpool,26,11,sat,etihad,league,liverpool win 1
+liverpool,man city,26,2,sun,anfield,league,liverpool win 1
+liverpool,man city,25,11,sat,anfield,league,liverpool win 1
+man city,liverpool,14,4,sat,etihad,league,draw 0
+man city,liverpool,30,12,sat,etihad,league,draw 0
+liverpool,man city,4,5,sun,anfield,league,liverpool win 1
+man city,liverpool,5,10,sun,etihad,league,liverpool win 3
+liverpool,man city,22,2,sun,anfield,league,draw 1
+liverpool,man city,21,11,sat,anfield,league,draw 2
+man city,liverpool,21,2,sun,etihad,league,draw 0
+man city,liverpool,23,8,mon,etihad,league,man city win 3
+liverpool,man city,11,4,mon,etihad,league,man city win 3
+liverpool,man city,27,11,sun,anfield,league,draw 1
+man city,liverpool,3,1,tue,anfield,league,man city win 3
+man city,liverpool,11,1,wed,anfield,carling,liverpool win 1
+liverpool,man city,25,1,wed,etihad,carling,draw 2
+liverpool,man city,26,8,sun,anfield,league,draw 2
+liverpool,man city,13,4,sun,anfield,league,liverpool win 3
+man city,liverpool,25,8,sun,anfield,league,liverpool win 3
+liverpool,man city,28,2,sat,anfield,league,draw 0
+liverpool,man city,1,3,sun,anfield,league,liverpool win 2
+man city,liverpool,21,11,sat,anfield,league,draw 2
+liverpool,man city,28,2,sat,anfield,carling,draw 1
+man city,liverpool,2,3,sat,anfield,league,liverpool win 3
+liverpool,man city,31,12,sat,anfield,league,liverpool win 1
+man city,liverpool,19,3,sun,etihad,league,draw 1
+man city,liverpool,9,9,sat,etihad,league,man city win 5
+liverpool,man city,14,1,sat,anfield,league,liverpool win 4
+man city,liverpool,4,4,wed,anfield,uefa,liverpool win 3
+man city,liverpool,10,4,tue,etihad,eufa,liverpool win 2
+liverpool,man city,7,10,mon,anfield,league,draw 0
+man city,liverpool,3,1,tue,etihad,league,man city win 2
+liverpool,man city,4,8,sun,wembely,community,draw 1
+liverpool,man city,10,11,sun,anfield,league,liverpool win 3
+man city,liverpool,2,7,thu,anfield,league,liverpool win 4
+man city,liverpool,8,11,sat,etihad,league,draw 1
+liverpool,man city,7,2,sat,anfield,league,draw 0
